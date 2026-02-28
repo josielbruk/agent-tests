@@ -3,3 +3,4 @@
 - **Package Management System:** Linux distributions employ sophisticated package managers (like APT, YUM, or Pacman) that handle software installation, updates, and dependency resolution automatically, ensuring system consistency and security through centralized repositories.
 - **Security and Permissions:** Linux implements a robust multi-user security model with strict ownership and permission controls, ensuring that users and applications operate with the least privilege required to maintain system integrity.
 - **Modularity:** Linux supports loadable kernel modules, enabling users to add or remove functionality (like device drivers) without rebooting the system, enhancing flexibility and ease of maintenance.
+- **File System Support:** Linux supports a wide variety of file systems (ext4, XFS, Btrfs, etc.), allowing users to choose the best file system for their needs based on performance, reliability, and features.
