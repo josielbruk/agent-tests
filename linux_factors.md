@@ -4,3 +4,4 @@
 - **Security and Permissions:** Linux implements a robust multi-user security model with strict ownership and permission controls, ensuring that users and applications operate with the least privilege required to maintain system integrity.
 - **Modularity:** Linux supports loadable kernel modules, enabling users to add or remove functionality (like device drivers) without rebooting the system, enhancing flexibility and ease of maintenance.
 - **File System Support:** Linux supports a wide variety of file systems (ext4, XFS, Btrfs, etc.), allowing users to choose the best file system for their needs based on performance, reliability, and features.
+- **Networking Capabilities:** Linux has robust networking capabilities, with built-in support for a wide range of protocols and tools for network configuration, monitoring, and security, making it a popular choice for servers and network infrastructure.
