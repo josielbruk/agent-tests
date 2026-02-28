@@ -1,0 +1,2 @@
+- **Open Source Foundation:** Linux is built on open-source principles, allowing anyone to view, modify, and distribute its source code, which fosters rapid innovation and security through community collaboration.
+- **Kernel Architecture:** Linux uses a monolithic kernel architecture, where the kernel handles all core system functions (process management, memory management, device drivers) in a single address space, providing high performance and direct hardware access.
